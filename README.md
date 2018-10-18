@@ -9,7 +9,7 @@ images to make them work with the network.
 
 ## Example Outputs
 
-![Mountain_Lake](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Mountain_Lake](https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Mountain_Lake.png)
 
 
 # Getting Started
