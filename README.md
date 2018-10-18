@@ -9,7 +9,13 @@ images to make them work with the network.
 
 ## Example Outputs
 
-![Mountain_Lake](https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Mountain_Lake.png)
+|Mountain Lake|Peninsula|
+|:-----------:|:-----------:|
+| <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Mountain_Lake.png"> | <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Peninsula.png"> |
+
+|Hill Bushes|Mountain|
+|:-----------:|:-----------:|
+| <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Hill_Bushes.png"> | <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Mountain.png"> |
 
 
 # Getting Started
