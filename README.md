@@ -15,9 +15,9 @@ The following images were generated at 256x192, then upscaled using [the bigjpg 
 |:-----------:|:-----------:|
 | <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Mountain_Lake.png"> | <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Peninsula.png"> |
 
-|Hill Bushes|Mountain|
+|Hill Bushes|Grassy Mountain|
 |:-----------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Hill_Bushes.png"> | <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Mountain.png"> |
+| <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Hill_Bushes.png"> | <img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/upscaled/Grassy_Mountain.png"> |
 
 Here is a selection of images generated at 128x128
 
