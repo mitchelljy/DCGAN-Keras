@@ -95,4 +95,6 @@ List of paramaters for the DCGAN.py file:
  
  Will resize any directory of imgs to the specified size and store the new imgs in a different directory
  
+ # Licensing
  
+ This project is released under the MIT license, see LICENSE.md for more details.
