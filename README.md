@@ -21,6 +21,10 @@ The following images were generated at 256x192, then upscaled using [the bigjpg 
 
 Here is a selection of images generated at 128x128
 
+|128x Selection|
+|:-----------:|
+|<img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/grid/out-64.png" width="80%"> |
+
 # Getting Started
 
 This section talks about how to use this model, its prerequisites and its paramaters.
@@ -75,6 +79,20 @@ List of paramaters for the DCGAN.py file:
   
  ## Example Usage
  
+ ### DCGAN.py
+ 
  To train a fresh model on some data, the following command template is ideal:
  
  ```python DCGAN.py --data /data/images/*.png --epochs 100000 --output /data/output```
+ 
+ Modifications can be made to image size, batch size etc. using the parameters. If your GPU doesn't have enough memory, you can change the size of the filters within the file, the image size and the batch size to better suit your GPU capability.
+ 
+ ### scrape_imgs.py
+ 
+ In it's current state it will download all of the images on [this ArtUK page]("https://artuk.org/discover/artworks/search/class_title:landscape--category:countryside/page/0"). You can modify the URL given in the file with any page or set of categories on ArtUK and it will download those instead.
+ 
+ ### resize_imgs.py
+ 
+ Will resize any directory of imgs to the specified size and store the new imgs in a different directory
+ 
+ 
