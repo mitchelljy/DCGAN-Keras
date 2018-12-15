@@ -4,10 +4,11 @@
 
 This is a relatively simple Deep Convolutional Generative Adversarial Network built in Keras. Given a dataset of images it will be able 
 to generate new images similar to those in the dataset. It was originally built to generate landscape paintings such 
-as the ones shown below. As a result, also contained are some scripts for collecting artwork from ArtUK and resizing 
-images to make them work with the network.
+as the ones shown below. As a result, also contained are some scripts for collecting artwork from ArtUK and resizing images to make them work with the network. There are also examples of it being trained on Space imagery as well.
 
-## Example Landscape Outputs
+## Example Outputs
+
+### Landscapes
 
 The following images were generated at 256x192, then upscaled using [the bigjpg tool](https://bigjpg.com/) which is a GAN based upscaling tool.
 
@@ -24,6 +25,12 @@ Here is a selection of images generated at 128x128
 |128x Selection|
 |:-----------:|
 |<img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/grid/out-64.png" width="80%"> |
+
+### Space Images
+
+|128x Selection|
+|:-----------:|
+|<img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/grid/148650.jpg" width="80%"> |
 
 # Getting Started
 
