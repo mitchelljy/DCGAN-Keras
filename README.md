@@ -30,7 +30,7 @@ Here is a selection of images generated at 128x128
 
 |128x Selection|
 |:-----------:|
-|<img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/grid/148650.jpg" width="80%"> |
+|<img src="https://raw.githubusercontent.com/DataSnaek/DCGAN-Keras/master/data/output/grid/148650.jpg" width="100%"> |
 
 # Getting Started
 
