@@ -270,7 +270,7 @@ if __name__ == '__main__':
     parser.add_argument('--sample', help='If given, will generate that many samples from existing model instead of training', default=-1)
     parser.add_argument('--sample_thresholds', help='The values between which a generated image must score from the discriminator', default="(0.0, 0.1)")
     parser.add_argument('--batch_size', help='Number of images to train on at once', default=24)
-    parser.add_argument('--image_size', help='Size of images as tuple (height,width). Height and width must both be divisible by (2^5)', default=(192, 256))
+    parser.add_argument('--image_size', help='Size of images as tuple (height,width). Height and width must both be divisible by (2^5)', default="(192, 256)")
     parser.add_argument('--epochs', help='Number of epochs to train for', default=500000)
     parser.add_argument('--save_interval', help='How many epochs to go between saves/outputs', default=100)
     parser.add_argument('--output_directory', help="Directoy to save weights and images to.", default="../data/output/test")
