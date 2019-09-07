@@ -8,7 +8,7 @@ as the ones shown below. As a result, also contained are some scripts for collec
 
 ## Model Architecture
 
-See a visualisation of the model architectures on Netbrix.ml:
+See a visualisation of the model architectures on [Netbrix.ml](https://netbrix.ml/):
 
 ### [Discriminator](http://localhost:8080/#!/view/landscape-gan-discriminator)
 
