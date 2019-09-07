@@ -10,9 +10,9 @@ as the ones shown below. As a result, also contained are some scripts for collec
 
 See a visualisation of the model architectures on [Netbrix.ml](https://netbrix.ml/):
 
-### [Discriminator](http://localhost:8080/#!/view/landscape-gan-discriminator)
+### [Discriminator](https://netbrix.ml/#!/view/landscape-gan-discriminator)
 
-### [Generator](http://localhost:8080/#!/view/landscape-gan-generator)
+### [Generator](https://netbrix.ml/#!/view/landscape-gan-generator)
 
  #### Snapshot:
 
