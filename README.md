@@ -8,15 +8,9 @@ as the ones shown below. As a result, also contained are some scripts for collec
 
 ## Model Architecture
 
-See a visualisation of the model architectures on [Netbrix.ml](https://netbrix.ml/):
+See the model architecture templates on [Netbrix.ml](https://netbrix.ml/) - [Discriminator](https://netbrix.ml/#!/editor/view/landscape-gan-discriminator) | [Generator](https://netbrix.ml/#!/editor/view/landscape-gan-generator)
 
-### [Discriminator](https://netbrix.ml/#!/view/landscape-gan-discriminator)
-
-### [Generator](https://netbrix.ml/#!/view/landscape-gan-generator)
-
- #### Snapshot:
-
-<img src="gen.png" alt="netbrix.ml generator visualisation" width="250px">
+<img src="gen.png" alt="netbrix.ml dcgan keras model visualization">
 
 ## Example Outputs
 
