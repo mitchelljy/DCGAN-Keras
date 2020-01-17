@@ -8,9 +8,11 @@ as the ones shown below. As a result, also contained are some scripts for collec
 
 ## Model Architecture
 
-See the model architecture templates on [Netbrix.co](https://netbrix.mco/) - [Discriminator](https://netbrix.co/#!/editor/view/landscape-gan-discriminator) | [Generator](https://netbrix.co/#!/editor/view/landscape-gan-generator)
+Visualisations of the model architecture:
 
-<img src="gen.png" alt="netbrix.co dcgan keras model visualization">
+* [Generator](https://netbrix.co/#!/model/c1aa33cf-3645-11ea-803e-4e67a2099c39)
+* [Discriminator](https://netbrix.co/#!/model/a99e1128-3645-11ea-803e-4e67a2099c39)
+* [Both (DCGAN)](https://netbrix.co/#!/model/43c79b6b-3645-11ea-803e-4e67a2099c39)
 
 ## Example Outputs
 
