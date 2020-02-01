@@ -10,9 +10,9 @@ as the ones shown below. As a result, also contained are some scripts for collec
 
 Visualisations of the model architecture:
 
-* [Generator](https://netbrix.co/#!/model/c1aa33cf-3645-11ea-803e-4e67a2099c39)
-* [Discriminator](https://netbrix.co/#!/model/a99e1128-3645-11ea-803e-4e67a2099c39)
-* [Both (DCGAN)](https://netbrix.co/#!/model/43c79b6b-3645-11ea-803e-4e67a2099c39)
+* [Generator](https://netbrix.co/#!/model/16b7385e-443f-11ea-9bd4-4e67a2099c39)
+* [Discriminator](https://netbrix.co/#!/model/4a644677-443f-11ea-9bd4-4e67a2099c39)
+* [Both (DCGAN)](https://netbrix.co/#!/model/e442d8b3-443e-11ea-9bd4-4e67a2099c39)
 
 ## Example Outputs
 
