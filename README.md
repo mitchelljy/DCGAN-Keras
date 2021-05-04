@@ -6,14 +6,6 @@ This is a relatively simple Deep Convolutional Generative Adversarial Network bu
 to generate new images similar to those in the dataset. It was originally built to generate landscape paintings such 
 as the ones shown below. As a result, also contained are some scripts for collecting artwork from ArtUK and resizing images to make them work with the network. There are also examples of it being trained on Space imagery as well.
 
-## Model Architecture
-
-Visualisations of the model architecture:
-
-* [Generator](https://netbrix.co/#!/model/16b7385e-443f-11ea-9bd4-4e67a2099c39)
-* [Discriminator](https://netbrix.co/#!/model/4a644677-443f-11ea-9bd4-4e67a2099c39)
-* [Both (DCGAN)](https://netbrix.co/#!/model/e442d8b3-443e-11ea-9bd4-4e67a2099c39)
-
 ## Example Outputs
 
 ### Landscapes
